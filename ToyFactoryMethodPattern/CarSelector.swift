@@ -10,6 +10,6 @@ import Foundation
 
 class CarSelector {
   class func selectCar(passengers: Int) -> String? {
-    return createRentalCar(passengers: passengers)?.name
+    return RentalCar.createRentalCar(passengers: passengers)?.name
   }
 }
