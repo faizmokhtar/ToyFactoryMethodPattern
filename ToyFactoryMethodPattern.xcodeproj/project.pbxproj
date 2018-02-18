@@ -10,6 +10,7 @@
 		983DD20020380AD8007196C0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 983DD1FF20380AD8007196C0 /* main.swift */; };
 		983DD20720380AF3007196C0 /* RentalCar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 983DD20620380AF3007196C0 /* RentalCar.swift */; };
 		983DD20920380E78007196C0 /* CarSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 983DD20820380E78007196C0 /* CarSelector.swift */; };
+		983DD20B20390E1D007196C0 /* PriceCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 983DD20A20390E1D007196C0 /* PriceCalculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		983DD1FF20380AD8007196C0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		983DD20620380AF3007196C0 /* RentalCar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RentalCar.swift; sourceTree = "<group>"; };
 		983DD20820380E78007196C0 /* CarSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarSelector.swift; sourceTree = "<group>"; };
+		983DD20A20390E1D007196C0 /* PriceCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriceCalculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 			children = (
 				983DD1FF20380AD8007196C0 /* main.swift */,
 				983DD20620380AF3007196C0 /* RentalCar.swift */,
+				983DD20A20390E1D007196C0 /* PriceCalculator.swift */,
 				983DD20820380E78007196C0 /* CarSelector.swift */,
 			);
 			path = ToyFactoryMethodPattern;
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				983DD20720380AF3007196C0 /* RentalCar.swift in Sources */,
+				983DD20B20390E1D007196C0 /* PriceCalculator.swift in Sources */,
 				983DD20020380AD8007196C0 /* main.swift in Sources */,
 				983DD20920380E78007196C0 /* CarSelector.swift in Sources */,
 			);
